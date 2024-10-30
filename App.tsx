@@ -1,6 +1,8 @@
 import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native'
 import React, { useState } from 'react'
 
+
+
 import BouncyCheckbox from "react-native-bouncy-checkbox";
 
 // Form validation
